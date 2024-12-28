@@ -75,11 +75,6 @@ The primary goals of this project include:
 - Employees aged **25-34** showed the **highest attrition rate (29.11%)**, suggesting potential challenges in retaining mid-career professionals.
 - Satisfaction ratings highlighted **job roles** such as **Research Scientists** and **Sales Executives** with higher engagement levels, while roles like **Manufacturing Directors** had lower scores.
 
-## Future Improvements
-
-- Incorporate **predictive analytics** to forecast attrition rates and hiring needs.
-- Add **real-time data integration** to ensure the dashboard is always up-to-date.
-- Expand the dashboard to include **employee engagement surveys** and **training metrics**.
 
 ## How to Use the Dashboard
 
